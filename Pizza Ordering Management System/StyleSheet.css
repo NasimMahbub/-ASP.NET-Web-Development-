@@ -1,0 +1,97 @@
+﻿body {
+}
+
+
+#contt {
+    width: 1210px;
+    height: 600px;
+    border: solid 1px #fff;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+#food {
+    width: 310px;
+    height: 150px;
+    border: solid 1px #ff6600;
+    float: left;
+}
+
+#regi {
+    width: 789px;
+    height: 598px;
+    border: solid 1px yellow;
+    float: left;
+    margin-left: 5px;
+}
+
+.lbl {
+    text-align: right;
+    color: #fff;
+    font-size: 20px;
+    height: 35px;
+}
+
+.txt {
+    border: solid 1px #fff;
+    width: 200px;
+    height: 24px;
+    background-color: white;
+    color: black !important;
+    text-align: left;
+}
+
+    .txt:hover {
+        border: solid 1px #fff;
+        width: 200px;
+        height: 24px;
+        background-color: #312929;
+    }
+
+.btn {
+    height: 30px;
+    border: solid 1px #fff;
+    background-color: #FFFFDF;
+    font-size: medium;
+    color: Maroon;
+    top: 0px;
+    left: 152px;
+}
+
+    .btn:hover {
+        background-color: transparent;
+        height: 30px;
+        font-size: medium;
+        border: solid 1px #fff;
+        color: #fff;
+    }
+
+.btnn {
+    height: 35px;
+    font-size: medium;
+    width: 133px;
+    background-color: transparent;
+    color: #fff;
+    border: solid 2px #fff;
+}
+
+    .btnn:hover {
+        height: 35px;
+        background-color: #FFFFDF;
+        width: 133px;
+        color: Maroon;
+    }
+
+.tbl {
+    width: 100%;
+}
+
+.tblhead {
+    height: 30px;
+    text-align: center;
+    font-size: larger;
+    color: #996633;
+    font-weight: bold;
+    padding: 6px;
+    border-bottom: solid 1px #fff;
+}
